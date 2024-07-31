@@ -52,3 +52,5 @@ The business problem addressed in this project is the need for effective custome
 3. **A/B Testing**: Implement A/B testing for targeted marketing campaigns based on the clusters and measure their effectiveness.
 4. **Integration with CRM**: Integrate the customer segments with the company's CRM system for real-time marketing automation and personalized communication.
 5. **Continuous Monitoring**: Regularly update and monitor the clusters to adapt to changing customer behaviors and market trends.
+
+![Signature](https://github.com/sophiafrayle/EDA-Covid/blob/main/images/Sophia%20Frayle.png)
